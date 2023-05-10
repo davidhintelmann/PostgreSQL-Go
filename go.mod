@@ -1,4 +1,4 @@
-module github.com/davidhintelmann/go/PostgreSQL
+module github.com/davidhintelmann/go/PostgreSQL-Go
 
 go 1.20
 
